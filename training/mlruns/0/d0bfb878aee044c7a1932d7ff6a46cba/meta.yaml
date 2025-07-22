@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOps/training/mlruns/0/d0bfb878aee044c7a1932d7ff6a46cba/artifacts
+end_time: 1752767049256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0bfb878aee044c7a1932d7ff6a46cba
+run_name: indecisive-quail-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752767010846
+status: 3
+tags: []
+user_id: codespace

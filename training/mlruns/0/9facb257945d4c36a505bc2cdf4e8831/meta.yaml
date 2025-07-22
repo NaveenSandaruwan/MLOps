@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOps/training/mlruns/0/9facb257945d4c36a505bc2cdf4e8831/artifacts
+end_time: 1752760020258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9facb257945d4c36a505bc2cdf4e8831
+run_name: loud-panda-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752759987227
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,22 @@
+artifact_path: /workspaces/MLOps/training/mlruns/2/models/m-acfbba36d8d44e10881e04920a20b1b0/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 2.1.4
+mlflow_version: 3.1.1
+model_id: m-acfbba36d8d44e10881e04920a20b1b0
+model_size_bytes: 2712677
+model_uuid: m-acfbba36d8d44e10881e04920a20b1b0
+prompts: null
+run_id: 68d91e4bef714ee3a38c3c5bd0fd000b
+utc_time_created: '2025-07-17 15:57:39.184448'

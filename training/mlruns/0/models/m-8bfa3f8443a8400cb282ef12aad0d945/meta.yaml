@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/MLOps/training/mlruns/0/models/m-8bfa3f8443a8400cb282ef12aad0d945/artifacts
+creation_timestamp: 1752767044201
+experiment_id: '0'
+last_updated_timestamp: 1752767049252
+model_id: m-8bfa3f8443a8400cb282ef12aad0d945
+model_type: null
+name: models_mlflow
+source_run_id: d0bfb878aee044c7a1932d7ff6a46cba
+status: 2
+status_message: null

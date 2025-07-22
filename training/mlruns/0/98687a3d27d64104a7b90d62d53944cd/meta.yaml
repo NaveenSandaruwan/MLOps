@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOps/training/mlruns/0/98687a3d27d64104a7b90d62d53944cd/artifacts
+end_time: 1752759832805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98687a3d27d64104a7b90d62d53944cd
+run_name: mysterious-robin-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752759799457
+status: 4
+tags: []
+user_id: codespace
